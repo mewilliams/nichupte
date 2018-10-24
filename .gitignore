@@ -1,6 +1,10 @@
+# Latex files
 *.bak
 *.aux
 *.pdf
 *.log
 *.bbl
 *.blg
+
+# Anything open 
+*~
