@@ -12,3 +12,4 @@
 > pdflatex nichupte
 > pdflatex nichupte
 ```
+The same is true for the `nichupte_bibliography.tex` file which is an annotated bibliography. 
