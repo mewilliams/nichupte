@@ -1,4 +1,4 @@
-#### Manuscript files for a paper on the Nichupte Lagoon System: 
+### Manuscript files for a paper on the Nichupte Lagoon System: 
 
 *`nichupte_bibliography.tex`* is an annotated bibliography of relevant papers.
 
